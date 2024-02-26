@@ -38,7 +38,7 @@ class CrudController extends Controller
         if ($show->count() > 0) {
 
             foreach ($show as $c) {
-               
+                echo "okay";
                 
             }
          
